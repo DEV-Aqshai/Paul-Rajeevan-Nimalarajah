@@ -95,8 +95,6 @@
   - YouTube: [@paulrajeevan](https://www.youtube.com/@paulrajeevan)
   - Medium: [story.paulrajeevan.com](https://story.paulrajeevan.com/)
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=paulrajeevan&style=flat-square&color=7C3AED" alt="profile views" />
-  </p>
+  
 
 </div>
