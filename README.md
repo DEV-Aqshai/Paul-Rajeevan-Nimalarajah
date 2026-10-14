@@ -1,5 +1,7 @@
 <div align="center">
-  # Hi, I'm Paul Rajeevan 👋
+
+  
+# Hi, I'm Paul Rajeevan 👋
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1500&color=7C3AED&vCenter=true&width=700&lines=Vibe+Coding+Specialist;Web+Apps+%7C+Mobile+Apps+%7C+Extensions+%7C+AI+Products" alt="Typing banner" />
